@@ -1,4 +1,4 @@
-Tópicos de microeconomía aplicada a los precios
+# Tópicos de microeconomía aplicada a los precios
 
 El trabajo contiene bases con información de precios de distintos supermercados de Uruguay. 
 
